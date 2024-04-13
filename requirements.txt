@@ -1,10 +1,10 @@
 streamlit
 pandas
-numpy
+plotly-express
 matplotlib
 seaborn
-plotly.express
+numpy
 scikit-learn
-pickle
+joblib
 streamlit-option-menu
 googletrans==4.0.0-rc1
